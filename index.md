@@ -3,6 +3,6 @@ layout: default
 title: GothamGo
 ---
 
-## Welcome to GothamGo Conference
+## Welcome to the GothamGo Conference
 
-The Go language conference in the best city in the world!
+Golang in the most famous city in the world!
